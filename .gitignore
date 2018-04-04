@@ -1,0 +1,10 @@
+
+# Project directories and cython generated files
+.idea/
+__pycache__/
+
+# Generated files
+inverted_file/
+
+# Personnal config file
+config.py
